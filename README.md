@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhijaykale/LeetCode/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/abhijaykale/LeetCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/abhijaykale/LeetCode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhijaykale/LeetCode/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/abhijaykale/LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
